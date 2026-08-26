@@ -1,5 +1,10 @@
 # dsh-headroom-manager
 
+> **⚠️ 已合并（DEPRECATED）**：本插件已并入
+> [dsh-headroom-suite](https://github.com/wjxn13/dsh-headroom-suite)（二合一套件）。
+> 建议直接安装套件。
+
+
 DeepSeek Harness 插件：Headroom 压缩代理的**进程管理面板**。
 
 官方 `headroom-switch` 插件只切换线路（`llm-deepseek.baseURL`），从不启动/停止
