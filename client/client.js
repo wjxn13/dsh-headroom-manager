@@ -6,7 +6,6 @@ window.__ModuleLoader__.load({
 		Object.defineProperty(exports, Symbol.toStringTag, { value: "Module" });
 		let react = require("react");
 		let react_jsx_runtime = require("react/jsx-runtime");
-		let dsh_client_web_react = require("@deepseek-ai/dsh-client-web-react");
 
 		const STATUS_URL = "/headroom-mgr/status";
 		const START_URL = "/headroom-mgr/start";
